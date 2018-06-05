@@ -84,10 +84,20 @@ The Windsor Boys’ School - Maidenhead Road, Windsor, Berkshire, SL4 5EH
 
 Strodes College - High Street, Egham, Surrey, TW20 9DR
 
-## LIVE SITES  - LATEST 5
+## LATEST PROJECTS
 
+[Farnborough Air Show - iOS / Android App](https://expo.io/@dan-watson/fia)  
 [Concept Vehicle Leasing](https://www.conceptvehicleleasing.co.uk/)  
 [Ardmore Language School](https://www.ardmorelanguageschools.com/)  
 [Ball & Hoolahan](https://www.ballandhoolahan.co.uk/)  
-[Exec Courses - Financial Times](http://www.exec-courses.com)  
-[Scrap My Map](http://scrapmymap.com)
+[Emmaus - Multi Tenant Courses Engine](https://angel.co/projects/745696-emmaus-multi-tenant-courses-engine)  
+[Xoom - E-Learning Platform](https://angel.co/projects/751470-xoom-e-learning-platform)  
+[Scrap My Map](http://scrapmymap.com)  
+
+## LATEST OPEN SOURCE
+
+[Mappd - Datamapper(esq) Schema For Active Models](https://github.com/dan-watson/mappd)  
+[Mappd Rest - Dynamicaly Create Restful Endpoints From ActiveRecord](https://github.com/dan-watson/mappd_rest)  
+
+
+
