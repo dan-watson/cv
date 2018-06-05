@@ -3,7 +3,8 @@
 ## Ruby On Rails / Full Stack Developer
 
 Email: dan@paz.am  
-Github: [dan-watson](https://github.com/dan-watson)
+Github: [dan-watson](https://github.com/dan-watson)  
+Angel: [Dan Watson](https://angel.co/daniel-watson-12)  
 
 ## Personal Statement
 
@@ -98,6 +99,3 @@ Strodes College - High Street, Egham, Surrey, TW20 9DR
 
 [Mappd - Datamapper(esq) Schema For Active Models](https://github.com/dan-watson/mappd)  
 [Mappd Rest - Dynamicaly Create Restful Endpoints From ActiveRecord](https://github.com/dan-watson/mappd_rest)  
-
-
-
