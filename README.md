@@ -2,6 +2,8 @@
 
 ## Ruby On Rails / Full Stack Developer
 
+### 12 Years Ruby and Rails Experience
+
 Email: dan@paz.am  
 Github: [dan-watson](https://github.com/dan-watson)  
 
