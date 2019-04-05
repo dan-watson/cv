@@ -5,9 +5,10 @@
 ### 12 Years Ruby and Rails Experience
 
 Email: dan@paz.am  
+Tel: [+447395373743](tel:+447395373743)  
 Github: [dan-watson](https://github.com/dan-watson)  
-Print: [print / download
-cv](https://github.com/dan-watson/cv/blob/master/README.md)
+Print: [Print /
+Download](https://gitprint.com/dan-watson/cv/blob/master/README.md)
 
 ## Personal Statement
 
