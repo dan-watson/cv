@@ -6,6 +6,8 @@
 
 Email: dan@paz.am  
 Github: [dan-watson](https://github.com/dan-watson)  
+Print: [print / download
+cv](https://github.com/dan-watson/cv/blob/master/README.md)
 
 ## Personal Statement
 
