@@ -143,13 +143,13 @@ pure Ruby to script the high-level functional specifications.
 **October 2000 – November 2005**  
 **K.W Decorations Ltd, Egham, Surrey - Software Engineer**
 
-## EDUCATION
+## Education
 
 The Windsor Boys’ School - Maidenhead Road, Windsor, Berkshire, SL4 5EH
 
 Strodes College - High Street, Egham, Surrey, TW20 9DR
 
-## LATEST PROJECTS
+## Latest Commercial Projects
 
 [Farnborough Air Show - iOS / Android App](https://expo.io/@dan-watson/fia)  
 [Concept Vehicle Leasing](https://www.conceptvehicleleasing.co.uk/)  
@@ -161,7 +161,7 @@ Engine](https://angel.co/projects/745696-emmaus-multi-tenant-courses-engine)
 Platform](https://angel.co/projects/751470-xoom-e-learning-platform)  
 [Scrap My Map](http://scrapmymap.com)  
 
-## LATEST OPEN SOURCE
+## Latest Open Source Projects
 
 [Mappd - Datamapper(esq) Schema For Active
 Models](https://github.com/dan-watson/mappd)  
