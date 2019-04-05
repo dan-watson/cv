@@ -58,7 +58,7 @@ And Software Sales, SEO - Including New Panda, Penguin and Hummingbird updates
 
 ## Work Experience
 
-**April 2018 - Present**
+**April 2018 - Present**  
 **Sabbatical / Various short term contracts**
 
 **January 2017 - April 2018**  
