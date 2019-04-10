@@ -12,8 +12,8 @@ Download](https://gitprint.com/dan-watson/cv/blob/master/README.md)
 
 ## Personal Statement
 
-I am a hard-working and conscientious person who prides himself on his ability to
-learn quickly, attention to detail and passion for working in process driven,
+I am a hard-working and conscientious person who prides himself on his ability
+to learn quickly, attention to detail and passion for working in process driven,
 fast-paced development environments.
 
 Throughout my career, I have been involved in many projects to create a variety
