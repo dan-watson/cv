@@ -2,7 +2,7 @@
 
 ## Ruby On Rails / Full Stack Developer
 
-### 12 Years Ruby and Rails Experience
+### 12+ Years Ruby and Rails Experience
 
 Github: [dan-watson](https://github.com/dan-watson)
 
@@ -18,17 +18,17 @@ Strong leadership skills and a personable character make me a developer who feel
 
 ## Technical Skills
 
-**Ruby (+ Recently Used Gems):** Ruby On Rails (1,2,3,4,5,6), Sinatra, Grape, Sidekiq, RSpec, Factory\_Girl, Fabricator, Thinking Sphinx, Carrierwave, Inherited Resources, Active Enum, Has Scope, Simple Form, Active Admin, Friendly Id, Devise, Squeel, Active Attr, RMagick
+**Ruby (+ Recently Used Gems):** Ruby On Rails (1,2,3,4,5,6,7), Sinatra, Grape, Sidekiq, RSpec, Factory\_Girl, Fabricator, Factory\_bot, Thinking Sphinx, Carrierwave, Inherited Resources, Active Enum, Has Scope, Simple Form, Active Admin, Friendly Id, Devise, Squeel, Active Attr, RMagick
 
-**JavaScript:** Node, Express, JQuery, Prototype, Backbone, Vue, Knockout, Prototypes, Closures
+**JavaScript:** Node, Express, React, JQuery, Prototype, Backbone, Vue, Knockout, Prototypes, Closures
 
-**Design:** UX Design, Photoshop, Sketch
+**Design:** UX Design, Photoshop, Sketch, Figma
 
 **Frontend:** HTML +5, CSS +3, SASS, ERB
 
 **Databases:** Psql, Mysql, Sqlite, SQL Server, MongoDB, CouchDB
 
-**Platforms / Tooling:** Kubernetes, GCloud, Git, Heroku, Docker, AWS, Elastic Search, Nginx, Apache
+**Platforms / Tooling:** Kubernetes, GCloud, Git, Heroku, Docker, AWS, Elastic Search / Open Search, Nginx, Apache, AWS
 
 **Other Technology:** IoT (Raspberry Pi, Arduino, Various Sensors & Protocols), 3D Modeling / 3D Printing / Rapid Prototyping, Chatbots, Machine Learning (TensorFlow, Google, Amazon, Microsoft Services), Systems Administration, Linux (Including the build of a custom Linux OS), Mac
 
@@ -38,7 +38,31 @@ Strong leadership skills and a personable character make me a developer who feel
 
 ## Work Experience
 
-**April 2018 - Present**\
+**February 2022 - Present** \
+**Senior Ruby on Rails Engineer - MASSOLIT**
+
+I currently work at MASSOLIT as a Senior Ruby Developer.
+
+MASSOLIT works with university academics to produce short video lectures in the
+literature, history and the social sciences for school teachers and students
+around the world.
+
+I am currently responsible for working across our entire range of services and
+applications:
+
+* Rails Web Application - Rails 7, Postgres, SCSS
+* Ruby Daemon - keeps school user data in sync with schools student management
+platforms
+* Ruby Scheduler - a custom ruby application triggered by Amazon Event Bridge
+which in turn spins up Amazon Lambda serverless functions
+* Ruby Authenticator - authenticates school users against their internal
+identity providers 
+* Ruby API - A ruby web application written with Rack and Grape
+* Mobile App - React Native
+* System administration across our AWS stack - RDS, Elastic Beanstalk, SES,
+    Open Search and more.
+
+**April 2018 - February 2022**\
 **Contracting / Ruby / Rails Engineer - Sentinel Management Consultants**
 
 For the last few years, I have been working as an independent contractor implementing multiple projects for Sentinel Management Consultants.
@@ -101,13 +125,11 @@ Strodes College - High Street, Egham, Surrey, TW20 9DR
 
 ## Latest Commercial Projects
 
+* [MASSOLIT](https://massolit.io)
+* [MASSOLIT - Mobile App](https://massolit.io/app)
 * [Xoom - E-Learning Platform](https://angel.co/projects/751470-xoom-e-learning-platform)
 * [Emmaus - Multi Tenant Courses Engine](https://angel.co/projects/745696-emmaus-multi-tenant-courses-engine)
 * [Job Pigeon](https://angel.co/projects/1301350-job-pigeon)
-* [Concept Vehicle Leasing](https://www.conceptvehicleleasing.co.uk/)
-* [Ardmore Language School](https://angel.co/projects/745687-ardmore-language-school?src=more\_projects)
-* [Ball & Hoolahan](https://angel.co/projects/745691-ball-hoolahan?src=more\_projects)
-* [Farnborough Air Show - iOS / Android App](https://expo.io/@dan-watson/fia)
 
 ## Latest Open Source Projects
 
