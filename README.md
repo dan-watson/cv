@@ -50,17 +50,20 @@ around the world.
 I am currently responsible for working across our entire range of services and
 applications:
 
-* Rails Web Application - Rails 7, Postgres, SCSS
+* Rails Web Application - Rails 7 (recently upgraded from 5.2), Postgres, SCSS
 * Ruby Daemon - keeps school user data in sync with schools student management
 platforms
-* Ruby Scheduler - a custom ruby application triggered by Amazon Event Bridge
+* Search API written in node / express. Backed by OpenSearch 
+* Search communications ruby gem to return results and index documents in our
+search index
+*  Ruby Scheduler - a custom ruby application triggered by Amazon Event Bridge
 which in turn spins up Amazon Lambda serverless functions
-* Ruby Authenticator - authenticates school users against their internal
+*  Ruby Authenticator - authenticates school users against their internal
 identity providers 
 * Ruby API - A ruby web application written with Rack and Grape
 * Mobile App - React Native
 * System administration across our AWS stack - RDS, Elastic Beanstalk, SES,
-    Open Search and more.
+Open Search and more.
 
 **April 2018 - February 2022**\
 **Contracting / Ruby / Rails Engineer - Sentinel Management Consultants**
