@@ -18,7 +18,7 @@ Strong leadership skills and a personable character make me a developer who feel
 
 ## Technical Skills
 
-**Ruby (+ Recently Used Gems):** Ruby On Rails (1,2,3,4,5,6,7), Sinatra, Grape, Sidekiq, RSpec, Factory\_Girl, Fabricator, Factory\_bot, Thinking Sphinx, Carrierwave, Inherited Resources, Active Enum, Has Scope, Simple Form, Active Admin, Friendly Id, Devise, Squeel, Active Attr, RMagick
+**Ruby (+ Recently Used Gems):** Ruby On Rails (1,2,3,4,5,6,7), Sinatra, Grape, Swagger, Sidekiq, RSpec, Factory\_Girl, Fabricator, Factory\_bot, Thinking Sphinx, Carrierwave, Inherited Resources, Active Enum, Has Scope, Simple Form, Active Admin, Friendly Id, Devise, Squeel, Active Attr, RMagick
 
 **JavaScript:** Node, Express, React, JQuery, Prototype, Backbone, Vue, Knockout, Prototypes, Closures
 
@@ -28,7 +28,7 @@ Strong leadership skills and a personable character make me a developer who feel
 
 **Databases:** Psql, Mysql, Sqlite, SQL Server, MongoDB, CouchDB
 
-**Platforms / Tooling:** Kubernetes, GCloud, Git, Heroku, Docker, AWS, Elastic Search / Open Search, Nginx, Apache, AWS
+**Platforms / Tooling:** Kubernetes, GCloud, Git, Heroku, Docker, AWS, Elastic Search / Open Search, Nginx, Apache
 
 **Other Technology:** IoT (Raspberry Pi, Arduino, Various Sensors & Protocols), 3D Modeling / 3D Printing / Rapid Prototyping, Chatbots, Machine Learning (TensorFlow, Google, Amazon, Microsoft Services), Systems Administration, Linux (Including the build of a custom Linux OS), Mac
 
@@ -56,6 +56,8 @@ platforms
 * Search API written in node / express. Backed by OpenSearch 
 * Search communications ruby gem to return results and index documents in our
 search index
+* Extraction of Invoicing, Content Access, Pricing and Subscriptions to an API layer
+  from our Monolith
 *  Ruby Scheduler - a custom ruby application triggered by Amazon Event Bridge
 which in turn spins up Amazon Lambda serverless functions
 *  Ruby Authenticator - authenticates school users against their internal
