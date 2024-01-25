@@ -30,7 +30,7 @@ Strong leadership skills and a personable character make me a developer who feel
 
 **Platforms / Tooling:** Kubernetes, GCloud, Git, Heroku, Docker, AWS, Elastic Search / Open Search, Nginx, Apache
 
-**Other Technology:** IoT (Raspberry Pi, Arduino, Various Sensors & Protocols), 3D Modeling / 3D Printing / Rapid Prototyping, Chatbots, Machine Learning (TensorFlow, Google, Amazon, Microsoft Services), Systems Administration, Linux (Including the build of a custom Linux OS), Mac
+**Other Technology:** IoT (Raspberry Pi, Arduino, Various Sensors & Protocols), 3D Modeling / 3D Printing / Rapid Prototyping, Chatbots, Machine Learning (TensorFlow, Google, Amazon, Microsoft Services), Systems Administration, Linux (Including the build of a custom Linux OS), Mac, HubSpot Integration
 
 **Patterns, Practices And More:** TDD, BDD, FDD, REST, SOAP, Agile, Lean, Waterfall, Repository Pattern, Singleton Pattern, Command Pattern, Proxy Pattern, Factory Pattern, Decorator Pattern, Builder Pattern, Observer Pattern, Adapter Pattern, Proxy Pattern, DSL’s, Meta-programming, Pair Programming (remote workers).
 
@@ -66,6 +66,7 @@ identity providers
 * Mobile App - React Native
 * System administration across our AWS stack - RDS, Elastic Beanstalk, SES,
 Open Search and more.
+* HubSpot integration both technical and administrative 
 
 **April 2018 - February 2022**\
 **Contracting / Ruby / Rails Engineer - Sentinel Management Consultants**
