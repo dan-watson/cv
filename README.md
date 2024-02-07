@@ -66,6 +66,7 @@ identity providers
 * Mobile App - React Native
 * System administration across our AWS stack - RDS, Elastic Beanstalk, SES,
 Open Search and more.
+* Migration all our services away from Elastic Beanstalk to Kubernetes
 * HubSpot integration both technical and administrative 
 
 **April 2018 - February 2022**\
