@@ -26,7 +26,7 @@ Strong leadership skills and a personable character make me a developer who feel
 
 **Frontend:** HTML +5, CSS +3, SASS, ERB
 
-**Databases:** Psql, Mysql, Sqlite, SQL Server, MongoDB, CouchDB
+**Databases:** Psql, Mysql, Sqlite, SQL Server, MongoDB, CouchDB, QuestDB
 
 **Platforms / Tooling:** Kubernetes, GCloud, Git, Heroku, Docker, AWS, Elastic Search / Open Search, Nginx, Apache
 
@@ -67,7 +67,8 @@ identity providers
 * System administration across our AWS stack - RDS, Elastic Beanstalk, SES,
 Open Search and more.
 * Migration all our services away from Elastic Beanstalk to Kubernetes
-* HubSpot integration both technical and administrative 
+* HubSpot integration both technical and administrative
+* Migrate analytics away from Postgres to QuestDB with an API layer for easy access across our applications. Reduced all query times from multiple seconds to under 50ms
 
 **April 2018 - February 2022**\
 **Contracting / Ruby / Rails Engineer - Sentinel Management Consultants**
