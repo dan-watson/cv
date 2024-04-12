@@ -26,7 +26,7 @@ Strong leadership skills and a personable character make me a developer who feel
 
 **Frontend:** HTML +5, CSS +3, SASS, ERB
 
-**Databases:** Psql, Mysql, Sqlite, SQL Server, MongoDB, CouchDB, QuestDB
+**Databases:** Postgres, Mysql, Sqlite, SQL Server, MongoDB, QuestDB
 
 **Platforms / Tooling:** Kubernetes, GCloud, Git, Heroku, Docker, AWS, Elastic Search / Open Search, Nginx, Apache
 
