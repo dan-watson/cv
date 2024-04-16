@@ -2,7 +2,7 @@
 
 ## Ruby On Rails / Full Stack Developer
 
-### 12+ Years Ruby and Rails Experience
+### 13+ Years Ruby and Rails / 20+ Years Software Engineering
 
 Github: [dan-watson](https://github.com/dan-watson)
 
